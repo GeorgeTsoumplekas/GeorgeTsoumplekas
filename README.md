@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Georgios Tsoumplekas</h1>
-<h3 align="center">An undergraduate student at Aristotle University of Thessaloniki</h3>
+<h3 align="center">An undergraduate student at the Electrical and Computer Engineering department of Aristotle University of Thessaloniki</h3>
 
 - 🔭 I’m currently working on **my thesis on Few-Shot Learning**
 
