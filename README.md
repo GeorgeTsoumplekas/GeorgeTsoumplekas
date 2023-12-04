@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Georgios Tsoumplekas</h1>
-<h3 align="center">An undergraduate Electrical and Computer Engineering student at the Aristotle University of Thessaloniki</h3>
+<h3 align="center">I graduated from the Electrical & Computer Engineering Department of Aristotle University of thessaloniki and my thesis was on *few-shot load forecasting*. </h3>
 
-- 🔭 I’m currently working on **my thesis on Few-Shot Learning**
+- 🔭 I’m currently working as an **AI Researcher / Engineer** at MetaMind Innovations.
 
-- 🌱 I’m currently learning **about Machine Learning / Deep Learning**
+- 🌱 I’m currently learning **about Meta-Learning / Federated Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GeorgeTsoumplekas?tab=repositories](https://github.com/GeorgeTsoumplekas?tab=repositories)
 
