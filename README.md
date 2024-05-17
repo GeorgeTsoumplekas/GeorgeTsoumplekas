@@ -5,7 +5,7 @@
   
 - 🔭 I’m currently working as an **AI Researcher / Engineer at MetaMind Innovations**
 
-- 🌱 I’m currently learning about **Meta-Learning / Federated Learning**
+- 🌱 I’m currently learning about **Meta-Learning / Object Detection**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GeorgeTsoumplekas?tab=repositories](https://github.com/GeorgeTsoumplekas?tab=repositories)
 
