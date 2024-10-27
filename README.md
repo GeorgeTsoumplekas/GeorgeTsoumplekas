@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gktsoump@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1MHc5EsVkVqCJgJ9n7_f-P56ip583mxMf?usp=sharing](https://drive.google.com/drive/folders/1MHc5EsVkVqCJgJ9n7_f-P56ip583mxMf?usp=sharing)
+- 📄 Know about my experiences [https://georgetsoumplekas.github.io/cv/](https://georgetsoumplekas.github.io/cv/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
