@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Georgios Tsoumplekas</h1>
-<h3 align="center">I'm a graduate of the Electrical & Computer Engineering Department, AUTh. </h3>
+<h3 align="center">I'm a graduate of the Electrical & Computer Engineering Department, AUTH. </h3>
 
 - 📕 My thesis was on **Few-Shot Load Forecasting**
   
