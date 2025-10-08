@@ -3,9 +3,9 @@
 
 - 📕 My thesis was on **Few-Shot Load Forecasting**
   
-- 🔭 I’m currently working as an **AI Researcher / Engineer at MetaMind Innovations**
+- 🔭 I’m currently working as an **AI Researcher at Kingston University**
 
-- 🌱 I’m currently learning about **Meta-Learning / Object Detection**
+- 🌱 I’m currently learning about **Generative AI / Diffusion Models**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GeorgeTsoumplekas?tab=repositories](https://github.com/GeorgeTsoumplekas?tab=repositories)
 
